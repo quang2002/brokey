@@ -38,8 +38,4 @@
 ```
 
 ## IV. QMK Source code
-**DELETED**
-
-### note
-![XH2.54-5P](http://bizweb.dktcdn.net/thumb/grande/100/005/602/products/065c802f120c1785c8d1c20857694627.jpg)
-
+[Here](brokey/)

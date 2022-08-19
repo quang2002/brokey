@@ -1,0 +1,11 @@
+{
+    "manufacturer": "quang2002",
+    "keyboard_name": "brokey",
+    "maintainer": "quang2002",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {}
+}
