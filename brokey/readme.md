@@ -1,7 +1,5 @@
 # brokey
 
-![brokey](imgur.com image replace me!)
-
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [quang2002](https://github.com/quang2002)
